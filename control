@@ -4,6 +4,7 @@ Depends: mobilesubstrate
 Version: 0.1
 Architecture: iphoneos-arm
 Description: View Instagram profile pictures in full-resolution.
+Depiction: http://akeaswaran.me/repo/depictions/propic.html
 Maintainer: SHIVADOC <shivadoc15@gmail.com>
 Author: SHIVADOC <shivadoc15@gmail.com>
 Section: Tweaks
