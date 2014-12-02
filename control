@@ -1,0 +1,9 @@
+Package: me.akeaswaran.propic
+Name: ProPic
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: View Instagram profile pictures in full-resolution.
+Maintainer: SHIVADOC <shivadoc15@gmail.com>
+Author: SHIVADOC <shivadoc15@gmail.com>
+Section: Tweaks
