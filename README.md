@@ -14,7 +14,7 @@ ProPic allows users to view Instagram users' profile pictures in full resolution
   * Tap on their profile picture when their user page is displayed.
   * A larger image view containing the user's profile picture will animate in view on-screen.
 ## Compatibility
-  * ProPic works with the most recent version of Instagram available (6.2.2), iOS 8.0+, and all iDevice models.
+  * ProPic works with the most recent version of Instagram available (6.3.1), iOS 8.0+, and all iDevice models.
 
 ## Credits
 * Big thanks to [Kiran Panesar](https://github.com/KiranPanesar/) for [MXLMediaView](https://github.com/KiranPanesar/MXLMediaView), which made it easy to display images in-app!
