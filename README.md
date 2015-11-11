@@ -1,6 +1,8 @@
 ProPic
 ======
 
+Note: This project is deprecated and exists only for other developers to learn from. It is not guaranteed to work on iOS 9.0+ and on devices newer than the iPhone 6 and 6+. Use at your own risk.
+
 View Instagram profile pictures in full resolution.
 
 ## Description
